@@ -1,2 +1,2 @@
-# GCOS
-THIS GAME IS KNOW ABOUT SPEEDS
+# p5.play-boilerplate
+Boiler plate for p5.play
